@@ -1,0 +1,9 @@
+.Img{
+    width: 600px;
+    height: 400px;
+    background-color: aqua;
+    
+}
+.Img>img{
+    width: 100%;
+}
